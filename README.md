@@ -1,1 +1,1 @@
-# mta-sts.rb
+#  mta-sts.receipt-bank.com
